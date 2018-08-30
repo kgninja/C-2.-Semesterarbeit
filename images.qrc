@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>boikstar.jpg</file>
+    </qresource>
+</RCC>
